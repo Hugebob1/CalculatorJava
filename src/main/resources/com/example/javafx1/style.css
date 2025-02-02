@@ -1,0 +1,51 @@
+.root{
+    -fx-background-color: #050202;
+}
+#textField{
+    -fx-font-size: 50;
+    -fx-alignment: center-right;
+}
+.text-field{
+    -fx-text-fill: white;
+}
+#orange{
+    -fx-color: orange;
+}
+#o1{
+    -fx-color: orange;
+}
+#o2{
+    -fx-color: orange;
+}
+#o3{
+    -fx-color: orange;
+}
+#o4{
+    -fx-color: orange;
+}
+#g2{
+    -fx-color: #505050;
+}
+#g3{
+    -fx-color: #505050;
+}
+#grey{
+    -fx-color: #505050;
+}
+.button{
+    -fx-background-radius: 50;
+    -fx-border-radius: 15;
+    -fx-color: #2f2d2d;
+    -fx-border-width: 0;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0, 0, 0);
+    -fx-pref-width: 82px;   /* Szerokość przycisku */
+    -fx-pref-height: 82px;
+}
+.button:pressed{
+    -fx-border-style: none;
+    -fx-border: none;
+}
+.text-field{
+    -fx-background-color: #050202;
+}
+
